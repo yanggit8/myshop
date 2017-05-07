@@ -14,7 +14,5 @@ fffffaaa
 
 asfsdfffff
 
-ooooooooooooo
-
 
 ?>
